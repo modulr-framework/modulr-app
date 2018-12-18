@@ -1,0 +1,23 @@
+{
+  "name": "modulr-app",
+  "version": "1.0.0",
+  "description": "Modulr Application Boilerplate",
+  "private": true,
+  "author": "Helcon Mabesa",
+  "scripts": {
+    "local": "node ./bin/local.js"
+  },
+  "dependencies": {
+    "cli-helper": "^0.3.0",
+    "datetime-js": "^3.0.5",
+    "git-changelog-listener": "git+https://github.com/mitzerh/node-git-changelog-listener.git#v0.0.1",
+    "grunt": "^1.0.3",
+    "grunt-contrib-clean": "^2.0.0",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-uglify": "^4.0.0",
+    "lodash": "^4.17.11",
+    "matchdep": "^2.0.0",
+    "require-dir": "^1.1.0"
+  }
+}

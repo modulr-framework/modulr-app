@@ -1,0 +1,6 @@
+{
+    "appName": "myModulrApp",
+    "domain": "localhost",
+    "port": "9000",
+    "pathPrefix": "/scripts"
+}
